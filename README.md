@@ -1,2 +1,2 @@
 # rishitakollu
-My engineering portfolio highlighting engineering projects, research, and technical development.
+My personal portfolio highlighting engineering projects, research, and technical development.
