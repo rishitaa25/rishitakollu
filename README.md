@@ -13,11 +13,11 @@
 
 ## About Me
 
-I have always been curious about how systems work beneath the surface. That curiosity led me to embedded systems, where hardware, firmware, and software come together, and eventually to cybersecurity, where understanding a system is the first step toward protecting it.
+I've always been curious about how things work beneath the surface. That curiosity led me to embedded systems, where hardware, firmware, and software come together, and eventually to cybersecurity, where understanding systems is just as important as protecting them.
 
-I am a Computer Engineering student at Iowa State University with a minor in Cybersecurity Engineering. My interests lie at the intersection of firmware development, embedded software, product security, cybersecurity, and low-level systems.
+I'm a junior at Iowa State University majoring in Computer Engineering with a minor in Cybersecurity Engineering. I'm especially interested in firmware engineering, embedded systems, product security and data-driven engineering. I enjoy understanding how hardware and software interact, building systems from the ground up, and learning how they can be made more secure, reliable, and resilient.
 
-Through academic projects, research, internships, and laboratory work, I have gained hands-on experience developing embedded devices, analyzing system security, building software applications, processing engineering data, and working collaboratively throughout the software and hardware development lifecycle.
+Along the way, I've also gained experience in software development, data science, and engineering research through internships and academic projects. Those experiences have strengthened my problem-solving skills and given me a broader perspective.
 
 > This GitHub profile serves as my engineering portfolio, documenting selected projects, research, industry experience, and technical coursework.
 
@@ -42,7 +42,7 @@ Through academic projects, research, internships, and laboratory work, I have ga
 <td width="33%" valign="top" align="center">
 
 <a href="https://github.com/rishitaa25/autonomous-security-patrol-robot.git">
-  <img src="images/projects/nyx.png" alt="Nyx Autonomous Security Patrol Robot" width="100%">
+  <img src="images/projects/nyx.jpeg" alt="Nyx Autonomous Security Patrol Robot" width="100%">
 </a>
 
 <h3>Nyx – Autonomous Security Patrol Robot</h3>
@@ -104,7 +104,7 @@ Arduino-based embedded system that reads temperature data, maps the readings to 
 <td width="33%" valign="top" align="center">
 
 <a href="https://github.com/rishitaa25/secure-smart-grid-controller.git">
-  <img src="assets/projects/smart-grid-controller.png" alt="Secure Smart Grid Controller" width="100%">
+  <img src="images/projects/smart-grid.jpeg" alt="Secure Smart Grid Controller" width="100%">
 </a>
 
 <h3>Secure Smart-Grid Controller</h3>
@@ -191,7 +191,7 @@ Performed security assessments on embedded industrial products through penetrati
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img src="images/experience/i2d2.png" alt="I2D2" width="145">
+  <img src="images/experience/i2d22.png" alt="I2D2" width="145">
 </td>
 
 <td width="78%" valign="top">
@@ -216,7 +216,7 @@ Develop reusable Python and R workflows, interactive dashboards, automated repor
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img src="images/experience/power-systems.png" alt="Power Systems Laboratory" width="145">
+  <img src="images/experience/power-systems.jpeg" alt="Power Systems Laboratory" width="145">
 </td>
 
 <td width="78%" valign="top">
@@ -266,7 +266,7 @@ Investigated Iowa's STEM education and workforce pipeline using data analysis, S
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img src="images/experience/ames-lab.png" alt="Ames National Laboratory" width="145">
+  <img src="images/experience/ames-lab.jpeg" alt="Ames National Laboratory" width="145">
 </td>
 
 <td width="78%" valign="top">
@@ -298,7 +298,7 @@ Developed and maintained HOODLT, a Python-based nanoparticle molecular-dynamics 
   <img src="assets/labs/embedded-systems.png" alt="Embedded Systems Laboratory" width="100%">
 </a>
 
-<h3>Embedded Systems Laboratory</h3>
+<h3>Embedded Systems Laboratory [CPRE 2880]</h3>
 
 <p>
 Low-level microcontroller programming, peripheral configuration, sensor communication, interrupts, timers, UART, ADC, I2C, servo control, and autonomous robotic systems.
@@ -316,7 +316,7 @@ Low-level microcontroller programming, peripheral configuration, sensor communic
   <img src="assets/labs/computer-architecture.png" alt="Computer Architecture Laboratory" width="100%">
 </a>
 
-<h3>Computer Architecture Laboratory</h3>
+<h3>Penetration Testing Laboratory [CYBE 2310]</h3>
 
 <p>
 Processor design, FPGA implementation, digital logic, datapath and control development, assembly programming, waveform analysis, simulation, and hardware verification.
@@ -334,7 +334,7 @@ Processor design, FPGA implementation, digital logic, datapath and control devel
   <img src="assets/labs/cybersecurity.png" alt="Cybersecurity Laboratory" width="100%">
 </a>
 
-<h3>Cybersecurity Laboratory</h3>
+<h3>Electronic Circuits & Systems Laboratory [EE 2300]</h3>
 
 <p>
 Hands-on exercises in network reconnaissance, vulnerability analysis, penetration testing, traffic inspection, system hardening, cryptography, and security assessment.
@@ -360,7 +360,7 @@ Hands-on exercises in network reconnaissance, vulnerability analysis, penetratio
   <img src="assets/labs/software-engineering.png" alt="Software Engineering Laboratory" width="100%">
 </a>
 
-<h3>Software Engineering Laboratory</h3>
+<h3>Digital Logics Laboratory [CPRE 2810]</h3>
 
 <p>
 Team-based application development using modular design, version control, client-server architecture, database systems, software testing, Agile practices, and continuous integration.
@@ -378,7 +378,7 @@ Team-based application development using modular design, version control, client
   <img src="assets/labs/networking.png" alt="Computer Networking Laboratory" width="100%">
 </a>
 
-<h3>Computer Networking Laboratory</h3>
+<h3>Networking Infrastructure Laboratory [CYBE 2300]</h3>
 
 <p>
 Networking exercises involving communication protocols, client-server systems, packet analysis, IP addressing, routing concepts, sockets, and network-security fundamentals.
