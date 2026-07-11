@@ -2,7 +2,7 @@
 
 # Rishita Kollu
 
-### Computer Engineering Honors Student • Firmware Engineering • Cybersecurity • Data Science •  Iowa State University 
+### Computer Engineering Honors Student • Firmware Engineering • Cybersecurity • Data Science  
 
 [LinkedIn](https://www.linkedin.com/in/kollurishita/) •
 [Email](mailto:rishitaa@iastate.edu) 
@@ -36,13 +36,18 @@ Along the way, I've also gained experience in software development, data science
 
 # Projects
 
+## Featured Projects
+
 <table>
 <tr>
 
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/rishitaa25/autonomous-security-patrol-robot.git">
-  <img src="images/projects/nyx.jpeg" alt="Nyx Autonomous Security Patrol Robot" width="100%">
+<a href="https://github.com/rishitaa25/autonomous-security-patrol-robot">
+  <img
+    src="images/projects/nyx.jpeg"
+    alt="Nyx Autonomous Security Patrol Robot"
+    width="100%">
 </a>
 
 <h3>Nyx – Autonomous Security Patrol Robot</h3>
@@ -51,16 +56,48 @@ Along the way, I've also gained experience in software development, data science
 Autonomous embedded security robot developed using a Tiva TM4 microcontroller, featuring obstacle detection, sensor scanning, real-time mapping, remote control, and live camera monitoring.
 </p>
 
-<p><strong>Embedded C • Tiva TM4 • UART • I2C • Robotics</strong></p>
+<p>
+  <strong>Embedded C • Tiva TM4 • UART • I2C • Robotics</strong>
+</p>
 
-<a href="https://github.com/rishitaa25/autonomous-security-patrol-robot.git"><strong>View Project →</strong></a>
+<a href="https://github.com/rishitaa25/autonomous-security-patrol-robot">
+  <strong>View Project →</strong>
+</a>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/rishitaa25/inventory-manager.git">
-  <img src="/projects/inventory-manager.png" alt="Inventory Manager Application" width="100%">
+<a href="https://github.com/rishitaa25/secure-smart-grid-controller">
+  <img
+    src="images/projects/smart-grid.jpeg"
+    alt="Secure Smart-Grid Controller"
+    width="100%">
+</a>
+
+<h3>Secure Smart-Grid Controller</h3>
+
+<p>
+Secure embedded controller combining device communication, runtime attack detection, and cyber-physical security concepts for Industrial IoT and smart-grid environments.
+</p>
+
+<p>
+  <strong>Embedded Systems • Networking • Cybersecurity • IIoT</strong>
+</p>
+
+<p>
+  <sub><strong>In Development: Design and Prototyping Phase</strong></sub>
+</p>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<a href="https://github.com/rishitaa25/inventory-manager">
+  <img
+    src="images/projects/inventory-manager.png"
+    alt="Inventory Manager Application"
+    width="100%">
 </a>
 
 <h3>Inventory Manager</h3>
@@ -69,27 +106,13 @@ Autonomous embedded security robot developed using a Tiva TM4 microcontroller, f
 Full-stack warehouse management application supporting inventory operations, shipment scheduling, employee shifts, role-based access, SQL database integration, and real-time communication.
 </p>
 
-<p><strong>Java • Spring Boot • SQL • REST APIs • WebSockets</strong></p>
-
-<a href="https://github.com/rishitaa25/inventory-manager"><strong>View Project →</strong></a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<a href="https://github.com/rishitaa25/mood-ring.git">
-  <img src="images/projects/mood-ring.png" alt="Electronic Mood Ring" width="100%">
-</a>
-
-<h3>Electronic Mood Ring</h3>
-
 <p>
-Arduino-based embedded system that reads temperature data, maps the readings to predefined moods, and displays the result through a real-time interactive web interface.
+  <strong>Java • Spring Boot • SQL • REST APIs • WebSockets</strong>
 </p>
 
-<p><strong>Arduino • C++ • JavaScript • Node.js • HTML</strong></p>
-
-<a href="https://github.com/rishitaa25/mood-ring.git"><strong>View Project →</strong></a>
+<a href="https://github.com/rishitaa25/inventory-manager">
+  <strong>View Project →</strong>
+</a>
 
 </td>
 
@@ -98,56 +121,89 @@ Arduino-based embedded system that reads temperature data, maps the readings to 
 
 <br>
 
+## Additional Projects
+
 <table>
 <tr>
 
 <td width="33%" valign="top" align="center">
 
-<a href="https://github.com/rishitaa25/secure-smart-grid-controller.git">
-  <img src="images/projects/smart-grid.jpeg" alt="Secure Smart Grid Controller" width="100%">
+<a href="https://github.com/rishitaa25/mood-ring">
+  <img
+    src="images/projects/mood-ring.png"
+    alt="Electronic Mood Ring"
+    width="88%">
 </a>
 
-<h3>Secure Smart-Grid Controller</h3>
+<h4>Electronic Mood Ring</h4>
 
 <p>
-Secure embedded controller project combining device communication, runtime attack detection, and cyber-physical security concepts for Industrial IoT and smart-grid environments.
+<sub>
+Arduino-based embedded system that reads temperature data, maps the readings to predefined moods, and displays the result through a real-time interactive web interface.
+</sub>
 </p>
 
-<p><strong>Embedded Systems • Networking • Cybersecurity • IIoT</strong></p>
+<p>
+  <sub><strong>Arduino • C++ • JavaScript • Node.js • HTML</strong></sub>
+</p>
 
-<a href="https://github.com/rishitaa25/secure-smart-grid-controller.git"><strong>View Project →</strong></a>
+<a href="https://github.com/rishitaa25/mood-ring">
+  <sub><strong>View Project →</strong></sub>
+</a>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-<a href="REPLACE_WITH_CPU_REPOSITORY_URL">
-  <img src="assets/projects/8-bit-cpu.png" alt="8 Bit CPU and Assembler" width="100%">
+<a href="REPLACE_WITH_AMPLIFIER_REPOSITORY_URL">
+  <img
+    src="images/projects/headphone-amplifier.png"
+    alt="Two-Channel Stereo Headphone Amplifier"
+    width="88%">
 </a>
 
-<h3>8-Bit CPU and Assembler</h3>
+<h4>Two-Channel Stereo Headphone Amplifier</h4>
 
 <p>
-Custom 8-bit processor implemented on an FPGA with a designed datapath, control unit, instruction architecture, assembler, and simulation-based verification.
+<sub>
+Designed, built, and tested an analog stereo amplifier with independent channel volume control, a 100 Hz–15 kHz bandpass response, and a target passband gain of 20 V/V.
+</sub>
 </p>
 
-<p><strong>Verilog • FPGA • QuestaSim • Computer Architecture</strong></p>
+<p>
+  <sub><strong>Analog Circuits • Op-Amps • Filters • LTspice • Oscilloscope</strong></sub>
+</p>
 
-<a href="REPLACE_WITH_CPU_REPOSITORY_URL"><strong>View Project →</strong></a>
+<a href="REPLACE_WITH_AMPLIFIER_REPOSITORY_URL">
+  <sub><strong>View Project →</strong></sub>
+</a>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-<img src="assets/projects/more-projects.png" alt="Additional Projects" width="100%">
+<a href="REPLACE_WITH_CENSUS_PROJECT_REPOSITORY_URL">
+  <img
+    src="images/projects/census-internet-access.png"
+    alt="Digital Exclusion Across the United States"
+    width="88%">
+</a>
 
-<h3>Additional Projects</h3>
+<h4>Digital Exclusion Across the United States</h4>
 
 <p>
-More embedded systems, cybersecurity, software engineering, and data science projects are currently being documented and added to this portfolio.
+<sub>
+Analyzed American Community Survey data to identify geographic disparities in household internet access and developed interactive maps highlighting digitally excluded states and counties.
+</sub>
 </p>
 
-<p><strong>Portfolio in Progress</strong></p>
+<p>
+  <sub><strong>R • Python • Leaflet • ACS Data • GIS • Data Visualization</strong></sub>
+</p>
+
+<a href="REPLACE_WITH_CENSUS_PROJECT_REPOSITORY_URL">
+  <sub><strong>View Project →</strong></sub>
+</a>
 
 </td>
 
@@ -155,10 +211,11 @@ More embedded systems, cybersecurity, software engineering, and data science pro
 </table>
 
 <p align="center">
-  <sub>Click a project image or project title to view its source code, technical documentation, design details, and implementation notes.</sub>
+  <sub>
+    Click a project image or project link to view its source code, documentation, design process, testing results, and implementation details.
+  </sub>
 </p>
 
----
 ---
 
 # Work Experience
