@@ -45,7 +45,7 @@ Along the way, I've also gained experience in software development, data science
 
 <a href="https://github.com/rishitaa25/autonomous-security-patrol-robot">
   <img
-    src="images/projects/nyx.jpeg"
+    src="images/projects/nyx.jpg"
     alt="Nyx Autonomous Security Patrol Robot"
     width="100%">
 </a>
@@ -70,7 +70,7 @@ Autonomous embedded security robot developed using a Tiva TM4 microcontroller, f
 
 <a href="https://github.com/rishitaa25/secure-smart-grid-controller">
   <img
-    src="images/projects/smart-grid.jpeg"
+    src="images/projects/smart-grid.jpg"
     alt="Secure Smart-Grid Controller"
     width="100%">
 </a>
@@ -157,7 +157,7 @@ Arduino-based embedded system that reads temperature data, maps the readings to 
 
 <a href="REPLACE_WITH_AMPLIFIER_REPOSITORY_URL">
   <img
-    src="images/projects/headphone-amplifier.png"
+    src="images/projects/stereo-amplifier.png"
     alt="Two-Channel Stereo Headphone Amplifier"
     width="88%">
 </a>
