@@ -224,7 +224,10 @@ Analyzed American Community Survey data to identify geographic disparities in ho
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img src="images/experience/emerson.png" alt="Emerson" width="145">
+  <img
+    src="images/experience/emerson.png"
+    alt="Emerson"
+    width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -235,8 +238,19 @@ Analyzed American Community Survey data to identify geographic disparities in ho
 <sub>May 2026 – August 2026</sub>
 
 <p>
-Performed security assessments on embedded industrial products through penetration testing, fuzz testing, firmware analysis, and network traffic inspection. Developed reusable Python automation scripts and used Kali Linux, Wireshark, Binwalk, Raspberry Pi, and hardware testing interfaces to evaluate device resilience against hardware, firmware, USB, and network-based attack scenarios.
+Assessed the security of embedded industrial products through hands-on firmware, hardware, USB, and network testing. Built reusable tools and test environments to identify vulnerabilities and improve product resilience.
 </p>
+
+<details>
+<summary><strong>Read more</strong></summary>
+
+<br>
+
+<p>
+Detailed project descriptions, testing methodologies, tools, and technical outcomes are currently being documented.
+</p>
+
+</details>
 
 </td>
 
@@ -249,7 +263,10 @@ Performed security assessments on embedded industrial products through penetrati
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img src="images/experience/i2d22.png" alt="I2D2" width="145">
+  <img
+    src="images/experience/i2d22.png"
+    alt="Iowa Integrated Data System for Decision-Making"
+    width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -260,8 +277,19 @@ Performed security assessments on embedded industrial products through penetrati
 <sub>December 2025 – Present</sub>
 
 <p>
-Develop reusable Python and R workflows, interactive dashboards, automated reports, and data-processing tools that transform complex public datasets into clear and accessible information for researchers, community organizations, and stakeholders.
+Develop Python and R workflows that organize complex public datasets and make them easier to analyze and use. Create automated reports, dashboards, and reusable tools for researchers and community partners.
 </p>
+
+<details>
+<summary><strong>Read more</strong></summary>
+
+<br>
+
+<p>
+Additional information about current data projects, automation workflows, and technical contributions is being prepared.
+</p>
+
+</details>
 
 </td>
 
@@ -274,7 +302,10 @@ Develop reusable Python and R workflows, interactive dashboards, automated repor
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img src="images/experience/power-systems.jpeg" alt="Power Systems Laboratory" width="145">
+  <img
+    src="images/experience/isu.jpeg"
+    alt="Power Systems Laboratory"
+    width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -285,8 +316,19 @@ Develop reusable Python and R workflows, interactive dashboards, automated repor
 <sub>January 2025 – May 2026</sub>
 
 <p>
-Processed and validated large-scale power-system datasets using Python and SQL. Developed automated workflows and visual tools to organize transmission lines, substations, GIS information, and engineering data used for long-term grid planning and renewable-energy analysis.
+Processed and validated transmission-system data using Python, SQL, GIS resources, and engineering datasets. Developed automated workflows and visualizations to support long-term grid planning and renewable-energy research.
 </p>
+
+<details>
+<summary><strong>Read more</strong></summary>
+
+<br>
+
+<p>
+Further details about the data-processing pipeline, visualization tools, and research applications are currently being documented.
+</p>
+
+</details>
 
 </td>
 
@@ -299,7 +341,10 @@ Processed and validated large-scale power-system datasets using Python and SQL. 
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img src="images/experience/dspg.png" alt="Data Science for the Public Good" width="145">
+  <img
+    src="images/experience/dspg.png"
+    alt="Data Science for the Public Good"
+    width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -310,8 +355,19 @@ Processed and validated large-scale power-system datasets using Python and SQL. 
 <sub>May 2025 – August 2025</sub>
 
 <p>
-Investigated Iowa's STEM education and workforce pipeline using data analysis, SQL databases, GIS tools, and interactive R Shiny dashboards. Integrated information from multiple public datasets and presented findings at a university research symposium.
+Analyzed Iowa’s STEM education and workforce pipeline using public datasets, SQL, GIS, and interactive R Shiny dashboards. Presented the team’s research and findings at a university research symposium.
 </p>
+
+<details>
+<summary><strong>Read more</strong></summary>
+
+<br>
+
+<p>
+Additional project information, dashboard examples, research methods, and presentation materials are being organized for this portfolio.
+</p>
+
+</details>
 
 </td>
 
@@ -324,7 +380,10 @@ Investigated Iowa's STEM education and workforce pipeline using data analysis, S
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img src="images/experience/ames-lab.jpeg" alt="Ames National Laboratory" width="145">
+  <img
+    src="images/experience/ames-lab.png"
+    alt="Ames National Laboratory"
+    width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -335,8 +394,19 @@ Investigated Iowa's STEM education and workforce pipeline using data analysis, S
 <sub>September 2024 – May 2025</sub>
 
 <p>
-Developed and maintained HOODLT, a Python-based nanoparticle molecular-dynamics simulation tool. Improved scientific modules, testing, packaging, maintainability, and compatibility with modern simulation tools including HOOMD-blue.
+Contributed to HOODLT, a Python-based nanoparticle molecular-dynamics simulation package used in scientific research. Improved program functionality, maintainability, testing, and compatibility with modern simulation tools.
 </p>
+
+<details>
+<summary><strong>Read more</strong></summary>
+
+<br>
+
+<p>
+Detailed information about the scientific modules, development work, testing process, and research applications is currently being documented.
+</p>
+
+</details>
 
 </td>
 
@@ -348,125 +418,99 @@ Developed and maintained HOODLT, a Python-based nanoparticle molecular-dynamics 
 # Laboratory Work
 
 <table>
+
 <tr>
+<td width="100%">
 
-<td width="33%" valign="top" align="center">
-
-<a href="REPLACE_WITH_EMBEDDED_LABS_REPOSITORY_URL">
-  <img src="assets/labs/embedded-systems.png" alt="Embedded Systems Laboratory" width="100%">
-</a>
-
-<h3>Embedded Systems Laboratory [CPRE 2880]</h3>
+<h3>Embedded Systems Laboratory <sub>(CPRE 2880)</sub></h3>
 
 <p>
-Low-level microcontroller programming, peripheral configuration, sensor communication, interrupts, timers, UART, ADC, I2C, servo control, and autonomous robotic systems.
+Designed and programmed embedded systems using the Tiva TM4 microcontroller, integrating sensors, actuators, communication peripherals, and autonomous robotic functionality.
 </p>
 
-<p><strong>Embedded C • Tiva TM4 • UART • ADC • I2C</strong></p>
+<p><strong>Embedded C • Tiva TM4 • UART • ADC • I2C • Timers</strong></p>
 
 <a href="REPLACE_WITH_EMBEDDED_LABS_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
 
 </td>
-
-<td width="33%" valign="top" align="center">
-
-<a href="REPLACE_WITH_COMPUTER_ARCHITECTURE_LABS_REPOSITORY_URL">
-  <img src="assets/labs/computer-architecture.png" alt="Computer Architecture Laboratory" width="100%">
-</a>
-
-<h3>Penetration Testing Laboratory [CYBE 2310]</h3>
-
-<p>
-Processor design, FPGA implementation, digital logic, datapath and control development, assembly programming, waveform analysis, simulation, and hardware verification.
-</p>
-
-<p><strong>Verilog • FPGA • ARM Assembly • QuestaSim</strong></p>
-
-<a href="REPLACE_WITH_COMPUTER_ARCHITECTURE_LABS_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<a href="REPLACE_WITH_CYBERSECURITY_LABS_REPOSITORY_URL">
-  <img src="assets/labs/cybersecurity.png" alt="Cybersecurity Laboratory" width="100%">
-</a>
-
-<h3>Electronic Circuits & Systems Laboratory [EE 2300]</h3>
-
-<p>
-Hands-on exercises in network reconnaissance, vulnerability analysis, penetration testing, traffic inspection, system hardening, cryptography, and security assessment.
-</p>
-
-<p><strong>Kali Linux • Wireshark • Nmap • Metasploit</strong></p>
-
-<a href="REPLACE_WITH_CYBERSECURITY_LABS_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
-
-</td>
-
 </tr>
-</table>
 
-<br>
-
-<table>
 <tr>
+<td>
 
-<td width="33%" valign="top" align="center">
+<hr>
 
-<a href="REPLACE_WITH_SOFTWARE_LABS_REPOSITORY_URL">
-  <img src="assets/labs/software-engineering.png" alt="Software Engineering Laboratory" width="100%">
-</a>
-
-<h3>Digital Logics Laboratory [CPRE 2810]</h3>
+<h3>Penetration Testing Laboratory <sub>(CYBE 2310)</sub></h3>
 
 <p>
-Team-based application development using modular design, version control, client-server architecture, database systems, software testing, Agile practices, and continuous integration.
+Performed hands-on security assessments through vulnerability discovery, exploitation, network analysis, and system hardening exercises in controlled lab environments.
 </p>
 
-<p><strong>Java • Spring Boot • SQL • Git • SCRUM</strong></p>
+<p><strong>Kali Linux • Metasploit • Wireshark • Nmap • OWASP</strong></p>
 
-<a href="REPLACE_WITH_SOFTWARE_LABS_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<a href="REPLACE_WITH_NETWORKING_LABS_REPOSITORY_URL">
-  <img src="assets/labs/networking.png" alt="Computer Networking Laboratory" width="100%">
-</a>
-
-<h3>Networking Infrastructure Laboratory [CYBE 2300]</h3>
-
-<p>
-Networking exercises involving communication protocols, client-server systems, packet analysis, IP addressing, routing concepts, sockets, and network-security fundamentals.
-</p>
-
-<p><strong>TCP/IP • Wireshark • Sockets • Network Security</strong></p>
-
-<a href="REPLACE_WITH_NETWORKING_LABS_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
+<a href="REPLACE_WITH_CYBER_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
 
 </td>
-
-<td width="33%" valign="top" align="center">
-
-<img src="assets/labs/more-labs.png" alt="Additional Laboratory Work" width="100%">
-
-<h3>Additional Laboratory Work</h3>
-
-<p>
-Additional coursework and technical laboratory repositories will be added as documentation is reviewed and prepared for public release.
-</p>
-
-<p><strong>Repository Updates in Progress</strong></p>
-
-</td>
-
 </tr>
+
+<tr>
+<td>
+
+<hr>
+
+<h3>Electronic Circuits & Systems Laboratory <sub>(EE 2300)</sub></h3>
+
+<p>
+Designed, simulated, built, and tested analog and digital electronic circuits while applying measurement techniques and engineering design principles.
+</p>
+
+<p><strong>Op-Amps • Analog Circuits • LTspice • Oscilloscope • Circuit Design</strong></p>
+
+<a href="REPLACE_WITH_EE230_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<hr>
+
+<h3>Digital Logic Laboratory <sub>(CPRE 2810)</sub></h3>
+
+<p>
+Designed and verified combinational and sequential digital systems using hardware description languages and FPGA-based development tools.
+</p>
+
+<p><strong>Verilog • FPGA • Quartus Prime • Digital Design</strong></p>
+
+<a href="REPLACE_WITH_DIGITAL_LOGIC_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<hr>
+
+<h3>Networking Infrastructure Laboratory <sub>(CYBE 2300)</sub></h3>
+
+<p>
+Configured and analyzed computer networks while exploring routing, switching, communication protocols, packet analysis, and network security concepts.
+</p>
+
+<p><strong>TCP/IP • Wireshark • Routing • Switching • Linux</strong></p>
+
+<a href="REPLACE_WITH_NETWORKING_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
+
+</td>
+</tr>
+
 </table>
 
 <p align="center">
-  <sub>Course-provided materials are excluded where required. Repositories contain only work that may be shared under applicable academic policies.</sub>
+<sub>Course-provided materials are excluded where required. Laboratory repositories contain only work that may be shared under applicable academic policies.</sub>
 </p>
 
 ---
