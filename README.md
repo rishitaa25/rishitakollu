@@ -155,7 +155,7 @@ Arduino-based embedded system that reads temperature data, maps the readings to 
 
 <td width="33%" valign="top" align="center">
 
-<a href="REPLACE_WITH_AMPLIFIER_REPOSITORY_URL">
+<a href="https://github.com/rishitaa25/stereo-headphone-amplifier.git">
   <img
     src="images/projects/stereo-amplifier.png"
     alt="Two-Channel Stereo Headphone Amplifier"
@@ -174,7 +174,7 @@ Designed, built, and tested an analog stereo amplifier with independent channel 
   <sub><strong>Analog Circuits • Op-Amps • Filters • LTspice • Oscilloscope</strong></sub>
 </p>
 
-<a href="REPLACE_WITH_AMPLIFIER_REPOSITORY_URL">
+<a href="https://github.com/rishitaa25/stereo-headphone-amplifier.git">
   <sub><strong>View Project →</strong></sub>
 </a>
 
@@ -182,7 +182,7 @@ Designed, built, and tested an analog stereo amplifier with independent channel 
 
 <td width="33%" valign="top" align="center">
 
-<a href="REPLACE_WITH_CENSUS_PROJECT_REPOSITORY_URL">
+<a href="https://github.com/rishitaa25/census-analysis.git">
   <img
     src="images/projects/census-internet-access.png"
     alt="Digital Exclusion Across the United States"
@@ -201,7 +201,7 @@ Analyzed American Community Survey data to identify geographic disparities in ho
   <sub><strong>R • Python • Leaflet • ACS Data • GIS • Data Visualization</strong></sub>
 </p>
 
-<a href="REPLACE_WITH_CENSUS_PROJECT_REPOSITORY_URL">
+<a href="https://github.com/rishitaa25/census-analysis.git">
   <sub><strong>View Project →</strong></sub>
 </a>
 
