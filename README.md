@@ -293,10 +293,8 @@ Projects include data automation, geographic reporting, census-based analyses, a
 
 <strong>Technologies:</strong> R • Python • SQL • Data Visualization • Census Data • GIS • Statistical Analysis • Automation
 
-<br><br>
-
 <a href="https://i2d2.iastate.edu/ia-data-drive/">
-  <sub>📊 <strong>Data Drive:</strong><br></sub>
+  <sub>📊 <strong>Iowa Data Drive</strong><br></sub>
 </a>
 
 </p>
@@ -381,15 +379,15 @@ Presented research findings at the Data Science for the Public Good Symposium an
 
 <strong>Technologies:</strong> R • Python • SQL • GIS • Leaflet • Shiny • Census Data • Data Visualization • Statistical Analysis
 
-<br><br>
+<a href="https://dspg-2025.github.io/Public-Page/blogs2025/Final_Blog/final-blog-stem-ed/Weekly_Team_Blog.html">
+  <sub>📝 <strong>Project Blog:</strong><br></sub>
+</a>
 
-📝 <strong>Project Blog:</strong><br>
-INSERT_DSPG_BLOG_LINK
+<br>
 
-<br><br>
-
-🎥 <strong>Presentation:</strong><br>
-https://www.youtube.com/watch?v=C57MaN7fd7k
+<a href="https://www.youtube.com/watch?v=C57MaN7fd7k">
+  <sub>🎥 <strong>Presentation:</strong><br></sub>
+</a>
 
 </p>
 
