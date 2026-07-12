@@ -313,7 +313,7 @@ INSERT_DATA_DRIVE_LINK
 <tr>
 
 <td width="22%" align="center" valign="middle">
-<img src="images/experience/isu.jpeg" alt="Power Systems Laboratory" width="165">
+<img src="images/experience/isu.jpg" alt="Power Systems Laboratory" width="165">
 </td>
 
 <td width="78%" valign="top">
