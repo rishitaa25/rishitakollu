@@ -220,7 +220,7 @@ Analyzed American Community Survey data to identify geographic disparities in ho
 
 # Work Experience
 
-<table width="100%">
+<table>
 <tr>
 
 <td width="22%" align="center" valign="middle">
@@ -234,6 +234,10 @@ Analyzed American Community Survey data to identify geographic disparities in ho
 <strong>Product Security Intern</strong><br>
 <sub>May 2026 – August 2026</sub>
 
+<p>
+Performed security assessments on embedded industrial products through firmware, hardware, USB, and network testing.
+</p>
+
 <details>
 <summary><strong>Read more</strong></summary>
 
@@ -241,7 +245,7 @@ Analyzed American Community Survey data to identify geographic disparities in ho
 
 <p>
 
-Performed security assessments on embedded industrial products through firmware, hardware, USB, and network testing. Conducted penetration testing, reverse engineering, fuzz testing, and network traffic analysis to identify vulnerabilities and improve product security.
+Conducted penetration testing, reverse engineering, fuzz testing, and network traffic analysis to identify vulnerabilities and improve product security.
 
 Developed reusable Python automation tools, analyzed firmware images using Binwalk, captured and inspected network traffic with Wireshark, and validated industrial communication protocols including Ethernet/IP. Built Raspberry Pi-based testing environments and investigated hardware interfaces such as UART, GPIO, and USB for security evaluation.
 
@@ -258,7 +262,7 @@ Developed reusable Python automation tools, analyzed firmware images using Binwa
 
 <br>
 
-<table width="100%">
+<table>
 <tr>
 
 <td width="22%" align="center" valign="middle">
@@ -272,6 +276,10 @@ Developed reusable Python automation tools, analyzed firmware images using Binwa
 <strong>Undergraduate Program Assistant</strong><br>
 <sub>December 2025 – Present</sub>
 
+<p>
+Develop public-sector data products using R and Python by transforming, cleaning, and analyzing large administrative datasets.
+</p>
+
 <details>
 <summary><strong>Read more</strong></summary>
 
@@ -279,7 +287,7 @@ Developed reusable Python automation tools, analyzed firmware images using Binwa
 
 <p>
 
-Develop public-sector data products using R and Python by transforming, cleaning, and analyzing large administrative datasets. Build automated data-processing workflows, generate county- and statewide-level reports, and contribute to dashboards and visualization tools used by researchers and community partners.
+Build automated data-processing workflows, generate county- and statewide-level reports, and contribute to dashboards and visualization tools used by researchers and community partners.
 
 Projects include data automation, geographic reporting, census-based analyses, and interactive reporting for statewide initiatives supporting education and early childhood programs.
 
@@ -288,7 +296,7 @@ Projects include data automation, geographic reporting, census-based analyses, a
 <br><br>
 
 📊 <strong>Data Drive:</strong><br>
-https://i2d2.iastate.edu/iadatadrive/
+INSERT_DATA_DRIVE_LINK
 
 </p>
 
@@ -301,7 +309,7 @@ https://i2d2.iastate.edu/iadatadrive/
 
 <br>
 
-<table width="100%">
+<table>
 <tr>
 
 <td width="22%" align="center" valign="middle">
@@ -315,6 +323,10 @@ https://i2d2.iastate.edu/iadatadrive/
 <strong>Research Intern</strong><br>
 <sub>January 2025 – May 2026</sub>
 
+<p>
+Conducted research supporting transmission-system planning by processing, validating, and visualizing large-scale electrical grid datasets. 
+</p>
+
 <details>
 <summary><strong>Read more</strong></summary>
 
@@ -322,7 +334,7 @@ https://i2d2.iastate.edu/iadatadrive/
 
 <p>
 
-Conducted research supporting transmission-system planning by processing, validating, and visualizing large-scale electrical grid datasets. Developed Python and SQL workflows to automate data matching, integrate GIS information, and improve the accuracy of transmission network models used for renewable energy and infrastructure research.
+Developed Python and SQL workflows to automate data matching, integrate GIS information, and improve the accuracy of transmission network models used for renewable energy and infrastructure research.
 
 <strong>Technologies:</strong> Python • SQL • GIS • Power Systems • Data Processing • Data Visualization • Automation
 
@@ -337,7 +349,7 @@ Conducted research supporting transmission-system planning by processing, valida
 
 <br>
 
-<table width="100%">
+<table>
 <tr>
 
 <td width="22%" align="center" valign="middle">
@@ -351,6 +363,10 @@ Conducted research supporting transmission-system planning by processing, valida
 <strong>Data Science Intern</strong><br>
 <sub>May 2025 – August 2025</sub>
 
+<p>
+Worked on interdisciplinary data science projects addressing real-world public policy challenges using large public datasets.
+</p>
+
 <details>
 <summary><strong>Read more</strong></summary>
 
@@ -358,7 +374,7 @@ Conducted research supporting transmission-system planning by processing, valida
 
 <p>
 
-Worked on interdisciplinary data science projects addressing real-world public policy challenges using large public datasets. Developed data-processing pipelines, statistical analyses, geographic visualizations, and interactive dashboards to communicate research findings for state and community stakeholders.
+Developed data-processing pipelines, statistical analyses, geographic visualizations, and interactive dashboards to communicate research findings for state and community stakeholders.
 
 Presented research findings at the Data Science for the Public Good Symposium and contributed to publicly available project reports.
 
@@ -367,12 +383,12 @@ Presented research findings at the Data Science for the Public Good Symposium an
 <br><br>
 
 📝 <strong>Project Blog:</strong><br>
-https://dspg-2025.github.io/Public-Page/blogs2025/Final_Blog/final-blog-stem-ed/Weekly_Team_Blog.html
+INSERT_DSPG_BLOG_LINK
 
 <br><br>
 
 🎥 <strong>Presentation:</strong><br>
-https://www.youtube.com/watch?v=C57MaN7fd7k
+INSERT_YOUTUBE_PRESENTATION_LINK
 
 </p>
 
@@ -385,7 +401,7 @@ https://www.youtube.com/watch?v=C57MaN7fd7k
 
 <br>
 
-<table width="100%">
+<table>
 <tr>
 
 <td width="22%" align="center" valign="middle">
@@ -399,6 +415,10 @@ https://www.youtube.com/watch?v=C57MaN7fd7k
 <strong>SCIENCES Research Intern</strong><br>
 <sub>September 2024 – May 2025</sub>
 
+<p>
+Contributed to the development of HOODLT, a Python-based molecular dynamics simulation package used for nanoparticle research.
+</p>
+
 <details>
 <summary><strong>Read more</strong></summary>
 
@@ -406,7 +426,7 @@ https://www.youtube.com/watch?v=C57MaN7fd7k
 
 <p>
 
-Contributed to the development of HOODLT, a Python-based molecular dynamics simulation package used for nanoparticle research. Improved software functionality, developed reusable modules, enhanced compatibility with modern simulation workflows, and assisted in testing and maintaining scientific computing tools for researchers.
+Improved software functionality, developed reusable modules, enhanced compatibility with modern simulation workflows, and assisted in testing and maintaining scientific computing tools for researchers.
 
 <strong>Technologies:</strong> Python • Molecular Dynamics • Scientific Computing • Software Development • Data Analysis
 
