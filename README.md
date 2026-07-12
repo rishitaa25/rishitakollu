@@ -417,6 +417,14 @@ Detailed information about the scientific modules, development work, testing pro
 
 # Laboratory Work
 
+> **Repository Access Notice**
+>
+> To preserve academic integrity and comply with university course policies, the source code, laboratory reports, and implementation details for certain course laboratories are maintained in private repositories.
+>
+> If you are a recruiter, hiring manager, or faculty member and would like to review a specific laboratory repository, please feel free to contact me. I am happy to provide access for professional evaluation upon request.
+>
+> 📧 **Request Repository Access:** [Email Me](mailto:rishitakollu@gmail.com?subject=GitHub%20Laboratory%20Repository%20Access)
+
 <table>
 
 <tr>
@@ -430,8 +438,6 @@ Designed and programmed embedded systems using the Tiva TM4 microcontroller, int
 
 <p><strong>Embedded C • Tiva TM4 • UART • ADC • I2C • Timers</strong></p>
 
-<a href="REPLACE_WITH_EMBEDDED_LABS_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
-
 </td>
 </tr>
 
@@ -443,12 +449,10 @@ Designed and programmed embedded systems using the Tiva TM4 microcontroller, int
 <h3>Penetration Testing Laboratory <sub>(CYBE 2310)</sub></h3>
 
 <p>
-Performed hands-on security assessments through vulnerability discovery, exploitation, network analysis, and system hardening exercises in controlled lab environments.
+Performed hands-on security assessments through vulnerability discovery, exploitation, network analysis, and system hardening exercises in controlled laboratory environments.
 </p>
 
 <p><strong>Kali Linux • Metasploit • Wireshark • Nmap • OWASP</strong></p>
-
-<a href="REPLACE_WITH_CYBER_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
 
 </td>
 </tr>
@@ -466,8 +470,6 @@ Designed, simulated, built, and tested analog and digital electronic circuits wh
 
 <p><strong>Op-Amps • Analog Circuits • LTspice • Oscilloscope • Circuit Design</strong></p>
 
-<a href="REPLACE_WITH_EE230_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
-
 </td>
 </tr>
 
@@ -483,8 +485,6 @@ Designed and verified combinational and sequential digital systems using hardwar
 </p>
 
 <p><strong>Verilog • FPGA • Quartus Prime • Digital Design</strong></p>
-
-<a href="REPLACE_WITH_DIGITAL_LOGIC_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
 
 </td>
 </tr>
@@ -502,16 +502,10 @@ Configured and analyzed computer networks while exploring routing, switching, co
 
 <p><strong>TCP/IP • Wireshark • Routing • Switching • Linux</strong></p>
 
-<a href="REPLACE_WITH_NETWORKING_REPOSITORY_URL"><strong>View Laboratory Work →</strong></a>
-
 </td>
 </tr>
 
 </table>
-
-<p align="center">
-<sub>Course-provided materials are excluded where required. Laboratory repositories contain only work that may be shared under applicable academic policies.</sub>
-</p>
 
 ---
 
