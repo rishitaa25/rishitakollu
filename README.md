@@ -277,7 +277,7 @@ Developed reusable Python automation tools, analyzed firmware images using Binwa
 <sub>December 2025 – Present</sub>
 
 <p>
-Develop public-sector data products using R and Python by transforming, cleaning, and analyzing large administrative datasets.
+Developed public-sector data products using R and Python by transforming, cleaning, and analyzing large administrative datasets.
 </p>
 
 <details>
