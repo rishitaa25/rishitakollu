@@ -86,7 +86,7 @@ Secure embedded controller combining device communication, runtime attack detect
 </p>
 
 <p>
-  <sub><strong>In Development: Design and Prototyping Phase</strong></sub>
+  <sub><strong>In Development</strong></sub>
 </p>
 
 </td>
