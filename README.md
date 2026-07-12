@@ -220,7 +220,7 @@ Analyzed American Community Survey data to identify geographic disparities in ho
 
 # Work Experience
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="22%" align="center" valign="middle">
@@ -258,7 +258,7 @@ Developed reusable Python automation tools, analyzed firmware images using Binwa
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="22%" align="center" valign="middle">
@@ -301,7 +301,7 @@ https://i2d2.iastate.edu/iadatadrive/
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="22%" align="center" valign="middle">
@@ -337,7 +337,7 @@ Conducted research supporting transmission-system planning by processing, valida
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="22%" align="center" valign="middle">
@@ -385,7 +385,7 @@ https://www.youtube.com/watch?v=C57MaN7fd7k
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="22%" align="center" valign="middle">
