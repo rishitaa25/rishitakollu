@@ -295,8 +295,9 @@ Projects include data automation, geographic reporting, census-based analyses, a
 
 <br><br>
 
-📊 <strong>Data Drive:</strong><br>
-INSERT_DATA_DRIVE_LINK
+<a href="https://i2d2.iastate.edu/ia-data-drive/">
+  <sub>📊 <strong>Data Drive:</strong><br></sub>
+</a>
 
 </p>
 
@@ -388,7 +389,7 @@ INSERT_DSPG_BLOG_LINK
 <br><br>
 
 🎥 <strong>Presentation:</strong><br>
-INSERT_YOUTUBE_PRESENTATION_LINK
+https://www.youtube.com/watch?v=C57MaN7fd7k
 
 </p>
 
