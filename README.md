@@ -82,7 +82,7 @@ Secure embedded controller combining device communication, runtime attack detect
 </p>
 
 <p>
-  <strong>Embedded Systems • Networking • Cybersecurity • IIoT</strong>
+  <strong>Embedded Systems • Networking • Rpi • IIoT</strong>
 </p>
 
 <p>
@@ -166,7 +166,7 @@ Arduino-based embedded system that reads temperature data, maps the readings to 
 
 <p>
 <sub>
-Designed, built, and tested an analog stereo amplifier with independent channel volume control, a 100 Hz–15 kHz bandpass response, and a target passband gain of 20 V/V.
+Designed, built, and tested an analog stereo amplifier with independent channel volume control, a 100 Hz–15 kHz bandpass response & a target passband gain of 20 V/V.
 </sub>
 </p>
 
@@ -241,8 +241,6 @@ Performed security assessments on embedded industrial products through firmware,
 <details>
 <summary><strong>Read more</strong></summary>
 
-<br>
-
 <p>
 
 Conducted penetration testing, reverse engineering, fuzz testing, and network traffic analysis to identify vulnerabilities and improve product security.
@@ -282,8 +280,6 @@ Developed public-sector data products using R and Python by transforming, cleani
 
 <details>
 <summary><strong>Read more</strong></summary>
-
-<br>
 
 <p>
 
@@ -329,8 +325,6 @@ Conducted research supporting transmission-system planning by processing, valida
 <details>
 <summary><strong>Read more</strong></summary>
 
-<br>
-
 <p>
 
 Developed Python and SQL workflows to automate data matching, integrate GIS information, and improve the accuracy of transmission network models used for renewable energy and infrastructure research.
@@ -369,24 +363,22 @@ Worked on interdisciplinary data science projects addressing real-world public p
 <details>
 <summary><strong>Read more</strong></summary>
 
-<br>
-
 <p>
 
 Developed data-processing pipelines, statistical analyses, geographic visualizations, and interactive dashboards to communicate research findings for state and community stakeholders.
 
-Presented research findings at the Data Science for the Public Good Symposium and contributed to publicly available project reports.
+Presented research findings at the Summer Research Symposium and contributed to publicly available project reports.
 
 <strong>Technologies:</strong> R • Python • SQL • GIS • Leaflet • Shiny • Census Data • Data Visualization • Statistical Analysis
 
 <a href="https://dspg-2025.github.io/Public-Page/blogs2025/Final_Blog/final-blog-stem-ed/Weekly_Team_Blog.html">
-  <sub>📝 <strong>Project Blog:</strong><br></sub>
+  <sub>📝 <strong>Project Blog: From Classroom to Career: The Status of STEM in Iowa </strong><br></sub>
 </a>
 
 <br>
 
 <a href="https://www.youtube.com/watch?v=C57MaN7fd7k">
-  <sub>🎥 <strong>Presentation:</strong><br></sub>
+  <sub>🎥 <strong>Presentation Video </strong><br></sub>
 </a>
 
 </p>
@@ -420,8 +412,6 @@ Contributed to the development of HOODLT, a Python-based molecular dynamics simu
 
 <details>
 <summary><strong>Read more</strong></summary>
-
-<br>
 
 <p>
 
