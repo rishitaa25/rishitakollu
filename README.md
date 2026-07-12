@@ -224,10 +224,7 @@ Analyzed American Community Survey data to identify geographic disparities in ho
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img
-    src="images/experience/emerson.png"
-    alt="Emerson"
-    width="165">
+<img src="images/experience/emerson.png" alt="Emerson" width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -237,17 +234,19 @@ Analyzed American Community Survey data to identify geographic disparities in ho
 <strong>Product Security Intern</strong><br>
 <sub>May 2026 – August 2026</sub>
 
-<p>
-Assessed the security of embedded industrial products through hands-on firmware, hardware, USB, and network testing. Built reusable tools and test environments to identify vulnerabilities and improve product resilience.
-</p>
-
 <details>
 <summary><strong>Read more</strong></summary>
 
 <br>
 
 <p>
-Detailed project descriptions, testing methodologies, tools, and technical outcomes are currently being documented.
+
+Performed security assessments on embedded industrial products through firmware, hardware, USB, and network testing. Conducted penetration testing, reverse engineering, fuzz testing, and network traffic analysis to identify vulnerabilities and improve product security.
+
+Developed reusable Python automation tools, analyzed firmware images using Binwalk, captured and inspected network traffic with Wireshark, and validated industrial communication protocols including Ethernet/IP. Built Raspberry Pi-based testing environments and investigated hardware interfaces such as UART, GPIO, and USB for security evaluation.
+
+<strong>Technologies:</strong> Python • Kali Linux • Wireshark • Binwalk • Raspberry Pi • Nmap • Metasploit • Ethernet/IP • UART • Embedded Systems • Product Security
+
 </p>
 
 </details>
@@ -263,10 +262,7 @@ Detailed project descriptions, testing methodologies, tools, and technical outco
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img
-    src="images/experience/i2d22.png"
-    alt="Iowa Integrated Data System for Decision-Making"
-    width="165">
+<img src="images/experience/i2d22.png" alt="Iowa Integrated Data System for Decision-Making" width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -276,17 +272,24 @@ Detailed project descriptions, testing methodologies, tools, and technical outco
 <strong>Undergraduate Program Assistant</strong><br>
 <sub>December 2025 – Present</sub>
 
-<p>
-Develop Python and R workflows that organize complex public datasets and make them easier to analyze and use. Create automated reports, dashboards, and reusable tools for researchers and community partners.
-</p>
-
 <details>
 <summary><strong>Read more</strong></summary>
 
 <br>
 
 <p>
-Additional information about current data projects, automation workflows, and technical contributions is being prepared.
+
+Develop public-sector data products using R and Python by transforming, cleaning, and analyzing large administrative datasets. Build automated data-processing workflows, generate county- and statewide-level reports, and contribute to dashboards and visualization tools used by researchers and community partners.
+
+Projects include data automation, geographic reporting, census-based analyses, and interactive reporting for statewide initiatives supporting education and early childhood programs.
+
+<strong>Technologies:</strong> R • Python • SQL • Data Visualization • Census Data • GIS • Statistical Analysis • Automation
+
+<br><br>
+
+📊 <strong>Data Drive:</strong><br>
+https://i2d2.iastate.edu/iadatadrive/
+
 </p>
 
 </details>
@@ -302,10 +305,7 @@ Additional information about current data projects, automation workflows, and te
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img
-    src="images/experience/isu.jpeg"
-    alt="Power Systems Laboratory"
-    width="165">
+<img src="images/experience/isu.jpeg" alt="Power Systems Laboratory" width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -315,17 +315,17 @@ Additional information about current data projects, automation workflows, and te
 <strong>Research Intern</strong><br>
 <sub>January 2025 – May 2026</sub>
 
-<p>
-Processed and validated transmission-system data using Python, SQL, GIS resources, and engineering datasets. Developed automated workflows and visualizations to support long-term grid planning and renewable-energy research.
-</p>
-
 <details>
 <summary><strong>Read more</strong></summary>
 
 <br>
 
 <p>
-Further details about the data-processing pipeline, visualization tools, and research applications are currently being documented.
+
+Conducted research supporting transmission-system planning by processing, validating, and visualizing large-scale electrical grid datasets. Developed Python and SQL workflows to automate data matching, integrate GIS information, and improve the accuracy of transmission network models used for renewable energy and infrastructure research.
+
+<strong>Technologies:</strong> Python • SQL • GIS • Power Systems • Data Processing • Data Visualization • Automation
+
 </p>
 
 </details>
@@ -341,10 +341,7 @@ Further details about the data-processing pipeline, visualization tools, and res
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img
-    src="images/experience/dspg.png"
-    alt="Data Science for the Public Good"
-    width="165">
+<img src="images/experience/dspg.png" alt="Data Science for the Public Good" width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -354,17 +351,29 @@ Further details about the data-processing pipeline, visualization tools, and res
 <strong>Data Science Intern</strong><br>
 <sub>May 2025 – August 2025</sub>
 
-<p>
-Analyzed Iowa’s STEM education and workforce pipeline using public datasets, SQL, GIS, and interactive R Shiny dashboards. Presented the team’s research and findings at a university research symposium.
-</p>
-
 <details>
 <summary><strong>Read more</strong></summary>
 
 <br>
 
 <p>
-Additional project information, dashboard examples, research methods, and presentation materials are being organized for this portfolio.
+
+Worked on interdisciplinary data science projects addressing real-world public policy challenges using large public datasets. Developed data-processing pipelines, statistical analyses, geographic visualizations, and interactive dashboards to communicate research findings for state and community stakeholders.
+
+Presented research findings at the Data Science for the Public Good Symposium and contributed to publicly available project reports.
+
+<strong>Technologies:</strong> R • Python • SQL • GIS • Leaflet • Shiny • Census Data • Data Visualization • Statistical Analysis
+
+<br><br>
+
+📝 <strong>Project Blog:</strong><br>
+https://dspg-2025.github.io/Public-Page/blogs2025/Final_Blog/final-blog-stem-ed/Weekly_Team_Blog.html
+
+<br><br>
+
+🎥 <strong>Presentation:</strong><br>
+https://www.youtube.com/watch?v=C57MaN7fd7k
+
 </p>
 
 </details>
@@ -380,10 +389,7 @@ Additional project information, dashboard examples, research methods, and presen
 <tr>
 
 <td width="22%" align="center" valign="middle">
-  <img
-    src="images/experience/ames-lab.png"
-    alt="Ames National Laboratory"
-    width="165">
+<img src="images/experience/ames-lab.png" alt="Ames National Laboratory" width="165">
 </td>
 
 <td width="78%" valign="top">
@@ -393,17 +399,17 @@ Additional project information, dashboard examples, research methods, and presen
 <strong>SCIENCES Research Intern</strong><br>
 <sub>September 2024 – May 2025</sub>
 
-<p>
-Contributed to HOODLT, a Python-based nanoparticle molecular-dynamics simulation package used in scientific research. Improved program functionality, maintainability, testing, and compatibility with modern simulation tools.
-</p>
-
 <details>
 <summary><strong>Read more</strong></summary>
 
 <br>
 
 <p>
-Detailed information about the scientific modules, development work, testing process, and research applications is currently being documented.
+
+Contributed to the development of HOODLT, a Python-based molecular dynamics simulation package used for nanoparticle research. Improved software functionality, developed reusable modules, enhanced compatibility with modern simulation workflows, and assisted in testing and maintaining scientific computing tools for researchers.
+
+<strong>Technologies:</strong> Python • Molecular Dynamics • Scientific Computing • Software Development • Data Analysis
+
 </p>
 
 </details>
