@@ -243,11 +243,13 @@ Performed security assessments on embedded industrial products through firmware,
 
 <p>
 
-Conducted penetration testing, reverse engineering, fuzz testing, and network traffic analysis to identify vulnerabilities and improve product security.
+Built a Raspberry Pi-based man-in-the-middle testing platform by configuring a custom wireless access point and using mitmproxy to intercept, log, and inspect communication between embedded devices and the network.
 
-Developed reusable Python automation tools, analyzed firmware images using Binwalk, captured and inspected network traffic with Wireshark, and validated industrial communication protocols including Ethernet/IP. Built Raspberry Pi-based testing environments and investigated hardware interfaces such as UART, GPIO, and USB for security evaluation.
+Developed and tested FreeRTOS firmware in C++ for an ESP32-based industrial embedded device, working with real-time tasks, hardware constraints, and peripheral behavior through the Arduino IDE.
 
-<strong>Technologies:</strong> Python • Kali Linux • Wireshark • Binwalk • Raspberry Pi • Nmap • Metasploit • Ethernet/IP • UART • Embedded Systems • Product Security
+Debugged target hardware through SWD, analyzed firmware images using Binwalk, and tested Ethernet/IP, storage, UART, GPIO, and USB interfaces. Simulated attack scenarios using tools such as Wireshark, Nmap, Kali Linux, and USB Rubber Ducky payloads to identify firmware and device-security issues.
+
+<strong>Technologies:</strong> C++ • FreeRTOS • ESP32 • Arduino IDE • Python • Raspberry Pi • Embedded Linux • SWD • mitmproxy • Wireshark • Binwalk • Nmap • Kali Linux • Ethernet/IP • UART • GPIO • USB • Firmware Security
 
 </p>
 
@@ -287,7 +289,9 @@ Build automated data-processing workflows, generate county- and statewide-level 
 
 Projects include data automation, geographic reporting, census-based analyses, and interactive reporting for statewide initiatives supporting education and early childhood programs.
 
-<strong>Technologies:</strong> R • Python • SQL • Data Visualization • Census Data • GIS • Statistical Analysis • Automation
+Used GitHub Copilot and prompt-based AI tools to understand unfamiliar code, troubleshoot errors, compare implementation approaches, and support refactoring while reviewing all generated code before using it. Maintained project changes through Git and tested outputs against source data and expected results.
+
+<strong>Technologies:</strong> R • Python • SQL • Data Visualization • Census Data • GIS • Statistical Analysis • Automation • Prompt Engineering
 
 <a href="https://i2d2.iastate.edu/ia-data-drive/">
   <sub>📊 <strong>Iowa Data Drive</strong><br></sub>
@@ -365,11 +369,13 @@ Worked on interdisciplinary data science projects addressing real-world public p
 
 <p>
 
-Developed data-processing pipelines, statistical analyses, geographic visualizations, and interactive dashboards to communicate research findings for state and community stakeholders.
+Investigated STEM trends across Iowa using Python, R, SQL, and interactive Shiny dashboards, combining education, workforce, and geographic data into a public-facing research product.
 
-Presented research findings at the Summer Research Symposium and contributed to publicly available project reports.
+Worked in a shared Git repository by creating feature branches, reviewing commit history, resolving merge conflicts, comparing file changes, restoring earlier versions, and using tools such as cherry-pick when selected updates needed to be moved between branches.
 
-<strong>Technologies:</strong> R • Python • SQL • GIS • Leaflet • Shiny • Census Data • Data Visualization • Statistical Analysis
+Debugged data and application issues across the project, including broken joins, inconsistent column formats, Shiny errors, and conflicts caused by multiple contributors editing the same files. Presented the final research at the Summer Research Symposium and contributed to the published project report.
+
+<strong>Technologies:</strong> R • Python • SQL • GIS • Leaflet • Shiny • Census Data • Data Visualization • Statistical Analysis • Data Debugging • Version Control
 
 <a href="https://dspg-2025.github.io/Public-Page/blogs2025/Final_Blog/final-blog-stem-ed/Weekly_Team_Blog.html">
   <sub>📝 <strong>Project Blog: From Classroom to Career: The Status of STEM in Iowa </strong><br></sub>
@@ -533,18 +539,20 @@ Configured and analyzed computer networks while exploring routing, switching, co
 
 ### Embedded Systems
 
-- Embedded C
+- Embedded C/C++
 - Microcontrollers
 - Tiva TM4
+- ESP32
 - Arduino
 - Raspberry Pi
 - UART
 - I2C
 - ADC
 - Servo control
+- SWD Debugging
 - Sensor integration
 - ARM assembly
-- RTOS fundamentals
+- FreeRTOS
 
 </td>
 
