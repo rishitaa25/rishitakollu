@@ -350,6 +350,46 @@ Developed Python and SQL workflows to automate data matching, integrate GIS info
 <tr>
 
 <td width="22%" align="center" valign="middle">
+<img src="images/experience/isu.jpg" alt="Iowa State University" width="165">
+</td>
+
+<td width="78%" valign="top">
+
+<h3>Iowa State University</h3>
+
+<strong>Teaching Assistant, Biomedical Engineering (BME 3400)</strong><br>
+<sub>August 2025 – December 2025</sub>
+
+<p>
+Assisted students with Python programming, debugging, and computational problem solving in biomedical engineering coursework involving numerical methods, scientific computing, and data analysis.
+</p>
+
+<details>
+<summary><strong>Read more</strong></summary>
+
+<p>
+
+Guided students through mathematical modeling topics including numerical integration, interpolation, curve fitting, differential equations, sampling, estimation, and error analysis during labs and office hours.
+
+Supported laboratory sessions, answered programming questions, tested and debugged student code, graded homework assignments and exams, and provided feedback to help students develop stronger computational problem-solving skills.
+
+<strong>Technologies:</strong> Python • Scientific Computing • Numerical Methods • Mathematical Modeling • Data Analysis • Debugging • Computational Engineering
+
+</p>
+
+</details>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+
+<td width="22%" align="center" valign="middle">
 <img src="images/experience/dspg.png" alt="Data Science for the Public Good" width="165">
 </td>
 
