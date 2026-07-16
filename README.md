@@ -350,7 +350,7 @@ Developed Python and SQL workflows to automate data matching, integrate GIS info
 <tr>
 
 <td width="22%" align="center" valign="middle">
-<img src="images/experience/isu.jpg" alt="Iowa State University" width="165">
+<img src="images/experience/bme.jpg" alt="Iowa State University" width="165">
 </td>
 
 <td width="78%" valign="top">
